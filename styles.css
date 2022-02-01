@@ -1,0 +1,53 @@
+img {
+	width: 300px;
+	border-radius: 300px;
+	margin-right: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	font-size: large;
+	text-align: left;
+	color: brown;
+}
+
+.BIT {
+	font-weight: bold;
+	background-color: honeydew;
+}
+
+.BIT2 {
+	background-color: honeydew;
+}
+
+.description {
+	font-weight: bold
+}
+
+.description2,
+.description3,
+.description4,
+.description5,
+.description6 {
+	background-color: lavender;
+}
+
+.EYM {
+	font-weight: bold
+}
+
+.Etymology,
+.EYM {
+	background-color: lightblue;
+}
+
+.History {
+	font-weight: bold
+}
+
+.History2,
+.History {
+	background-color: moccasin
+}
